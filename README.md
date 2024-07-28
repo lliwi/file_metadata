@@ -1,4 +1,4 @@
-# File metedata
+# Metadata file extractor
 ## Descripción:
 **file_metadata** es una herramienta de Python diseñada para extraer y presentar de forma clara los metadatos de diversos tipos de archivos. Esta herramienta facilita la obtención de información valiosa sobre los archivos, como autor, fecha de creación, modificaciones, dimensiones (en el caso de imágenes), y más.
 
