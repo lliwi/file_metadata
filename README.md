@@ -7,3 +7,4 @@ Actualmente, file_metadata soporta los siguientes tipos de archivos y sus metada
 **Imágenes (JPEG, PNG, etc.):** Dimensiones, resolución, formato, perfil de color, fecha de creación, etc.
 **Documentos de Office Word:** Autor, título, asunto, palabras clave, fecha de creación, modificado, etc.
 
+La puedes probar desde [stremlit](https://filemetadata-betau45zazoke5mvb9yb2q.streamlit.app/)
